@@ -1,6 +1,3 @@
-Here's a `README.md` file for your script, including a backstory on why you made it and instructions on how to use it:
-
----
 
 ## Page2PDF
 
@@ -93,15 +90,3 @@ python3 Page2PDF.py <url> [--pdf] [--word]
 ### Contributing
 
 If you have suggestions for improvements or encounter any issues, feel free to open an issue or create a pull request. Contributions are welcome!
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-### Acknowledgements
-
-Special thanks to the developers of `pdfkit`, `BeautifulSoup`, `python-docx`, and `requests` for providing the essential tools needed for this script.
-
----
-
-Feel free to modify this `README.md` as needed to fit your project and personal style!
